@@ -1,6 +1,12 @@
 # Project 2: Person Tracking
 📁 Created by: Asrul Said
 
+## Introduction
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus nobis ratione quidem aut sit, modi ab eveniet quasi error ex architecto consequuntur hic iusto deserunt velit adipisci exercitationem officiis nostrum.
+
+## Getting Started
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus nobis ratione quidem aut sit, modi ab eveniet quasi error ex architecto consequuntur hic iusto deserunt velit adipisci exercitationem officiis nostrum.
+
 ## Results
 model     | optimizer | batch size |  lr  | lr_decay | max_epoch | time/epoch | mAP<sup>val<br>50-95 | mAP<sup>val<br>50
 ----------|-----------|------------|------|----------|-----------|------------|----------------------|------------------
